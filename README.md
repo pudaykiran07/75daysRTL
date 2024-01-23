@@ -1,5 +1,5 @@
 # 75daysRTL
-75 Days of RTL covering all the designs used in logic circuits for VLSI.
+75 Days of RTL Code covering all the designs used in logic circuits for VLSI.
 <br>
 Language Used - Verilog 
 <br>

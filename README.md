@@ -8,3 +8,5 @@ Software Used - Vivado Ml 2022.2
 Day 1 - Half Adder using Verilog
 <br>
 Day 2 - Full Adder using Half Adder
+<br>
+Day 3 - Full Subtractor using Half Saubtractor

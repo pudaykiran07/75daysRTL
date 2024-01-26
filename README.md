@@ -10,3 +10,6 @@ Day 1 - Half Adder using Verilog
 Day 2 - Full Adder using Half Adder
 <br>
 Day 3 - Full Subtractor using Half Saubtractor
+<br>
+Day4 - 4bit Ripple Carry Adder
+

@@ -14,3 +14,5 @@ Day 3 - Full Subtractor using Half Saubtractor
 Day 4 - 4bit Ripple Carry Adder
 <br>
 Day 5 - 4bit Carry Look Ahead Adder
+<br>
+Day 6 - 4X1 Multiplexer

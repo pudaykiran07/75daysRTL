@@ -16,3 +16,6 @@ Day 4 - 4bit Ripple Carry Adder
 Day 5 - 4bit Carry Look Ahead Adder
 <br>
 Day 6 - 4X1 Multiplexer
+<br>
+Day 7 - 16X1 Mux using 4X1 Mux
+

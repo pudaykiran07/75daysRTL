@@ -18,4 +18,6 @@ Day 5 - 4bit Carry Look Ahead Adder
 Day 6 - 4X1 Multiplexer
 <br>
 Day 7 - 16X1 Mux using 4X1 Mux
+<br>
+Day 8 - 4X4 Array Multipler
 

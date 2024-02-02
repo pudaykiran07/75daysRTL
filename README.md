@@ -22,4 +22,6 @@ Day 7 - 16X1 Mux using 4X1 Mux
 Day 8 - 4X4 Array Multipler
 <br>
 Day 9 - Grey to Binary Converter
+<br>
+Day 10 - Binary to Grey Converter
 

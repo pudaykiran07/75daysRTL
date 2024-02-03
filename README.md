@@ -24,4 +24,6 @@ Day 8 - 4X4 Array Multipler
 Day 9 - Grey to Binary Converter
 <br>
 Day 10 - Binary to Grey Converter
-
+<br>
+Day 11 - 1X4 DeMultiplexer
+<br>

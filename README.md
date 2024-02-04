@@ -27,3 +27,5 @@ Day 10 - Binary to Grey Converter
 <br>
 Day 11 - 1X4 DeMultiplexer
 <br>
+Day 12 - Priority Encoder
+<br>

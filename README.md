@@ -29,3 +29,7 @@ Day 11 - 1X4 DeMultiplexer
 <br>
 Day 12 - Priority Encoder
 <br>
+Day 13 - Decoder 3 to 8
+<br>
+Day 12 - Clock Divider
+<br>
